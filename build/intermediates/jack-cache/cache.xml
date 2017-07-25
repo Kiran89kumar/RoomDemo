@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/c5fe66c21022bd8a8f253cab95fe2971842e8229/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-763da7caff93c24edd191e5efd6592625fe99eae.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/56bb536dd10b8b022366b9309c87e9aec7063975/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="934c873f6fceec1b7d842faa752fc7cc0890123c">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-41c3180129b01008006e329b86384d2ade547c14.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/reactive-streams-1.0.0-efd835ff600f625a7750a724ee0a0a95a41364f9.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/e4acadf1f561135efc17086ee590ec713ee8a205/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-82fbdfea1cdfe1d64453c17516ec75daf37ab2a1.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/javax.inject-1-c11f129de906840f2d78fb1ecf1e3e0ac9ac7d04.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/b53e2a5088a836574465c59eac71485fe50aca66/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b8d22505762514d900cb6a6e8ddf73498953f1b3.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        revision="25.0.3"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-2.8-bb2fb46ce5674b5b3fab93cc3b2f8a2a05fda2d4.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.8/47fadd5ff70f325e520fbc491227bd9283a48f95/rxjava-2.0.8.jar"
+        revision="25.0.3"
+        sha1="47fadd5ff70f325e520fbc491227bd9283a48f95">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-2.0.8-214b9c562d2af3919beea779bb007904956520b5.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/defc307d736de56f7e2138bd9139214c464ed12c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ab01c42bad9d9c4eb3c2817ef88c4860b6e678a0.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/d4814fca7374fa14b1680c9e096aee34afc57869/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-77bcca02f0d7aa1547cafc58b78a87b489a35123.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/db9b849ae51c2a592a991f52364d563accf720ed/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="5b6503f4b21263f11ee98bb2cc9dc9807a129a8e">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-895ebc8c2ced957622e5a8c077545ce7e95ebf0c.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/39f9b21d49ce3ab0da03c6b56bd911496d2563aa/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5e6792e0debd49eb934f8dbb3e723758ebc50eb3.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0-alpha4/576aad6968dcec427e61e84299bea026fafc4f97/common-1.0.0-alpha4.jar"
+        revision="25.0.3"
+        sha1="576aad6968dcec427e61e84299bea026fafc4f97">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/common-1.0.0-alpha4-9a7f53000ab558b2c2c546df38d31c83931feebb.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/ff76b2ee1420740edb542f0f8b57ee5becc578f5/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e9779caaae5a1acb4ccc1cfa95f996c45bc1a859.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/f64e0ae25d83e8e0b07a8181baaaf18111e40d57/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-187170935f54492ae02cff98d8e2528a4ebe1498.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/dffa2368b99bd6f42f490bf0534bec14c83421f9/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="e49b8822a26af94c599ef9245d0bc96aad67859b">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a16c8589894b6b9e81e83bb64334fac350220fc7.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/3ac615726219d7e4c72a231ec8763e24ac50b9c6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-341b39a91f4aba220e8329adc411354980b1e879.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0-alpha4/4fd137d8a0a1fe39294bf30131b0c3c8f452d8c/common-1.0.0-alpha4.jar"
+        revision="25.0.3"
+        sha1="04fd137d8a0a1fe39294bf30131b0c3c8f452d8c">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/common-1.0.0-alpha4-89a128694f5f855de809343fceb60772b461191d.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/683bd1b5c9ae2320d0bc61e29d21a9e3fd8faa1e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9d25549a319f80cf02d7d763b40a117514b9cd47.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/52f8ce8a4ef423ddee5b8e8040b00d8f29a7693e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-debeae61b95d65c96162889484a1efdb13aa2d90.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/4b14e00a1ccada459bfc36368e058c119611769e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="74cb22b67274d64138178f05d61136389b58ca0a">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a349b313000d37365c536ae570d8c55a4581ce34.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/cf9b85fe41aee2f5ed011924e283a04903c01e17/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="bffccd127954f394cad21b8599d4354faec3f172">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-89d707812b7984c5385a104dda5d9a54d3667aaa.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk-linux/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-a5016817db15cad0536bfd389a7a233fd1354feb.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/4d9e435475f4c8e956fb2824f48b33858a0275fb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="5d0f33b79df0131493b52eafeebfad364de6ab29">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-dd847edb59eb04f1bb5cbab935329faca559757b.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.0.0-alpha4/c852cae258317e1693cd157b9f3af01b3f89e394/common-1.0.0-alpha4.jar"
+        revision="25.0.3"
+        sha1="c852cae258317e1693cd157b9f3af01b3f89e394">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/common-1.0.0-alpha4-687b176bea29e0b8a110332c562564b32da1bf5c.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-b1794a7770b35cf2019f123b47924750cff2819a.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-e73e4af3cb34efc4b28c4931e1ce36f5d9c689b2.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/b105a138b1c54a33ed59af9f8e6ea58f37f2e671/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9eaca99907a67589e8a342f0c007c5340acac66f.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/309242e12648832e7fd9cf253646aec27b3827a0/threetenbp-1.3.3-no-tzdb.jar"
+        revision="25.0.3"
+        sha1="309242e12648832e7fd9cf253646aec27b3827a0">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/threetenbp-1.3.3-no-tzdb-53cd213e75b2f025cedbd95eb069003b1981b9af.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/063eee645e8cee10cecf57ba40d0d6c25a8851af/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b6c0a248b5d4d0d6901eee896f0fe634d4870075.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/f52e46fcf89c0594cd5c4d55868483e2f7338457/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f355452e970d1692a790832124de44e4832e8049.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk-linux/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-affa8153388030d629a566197193a8d610b366aa.jar" />
+    </item>
+    <item
+        jar="/home/kiran.kumar/.android/build-cache/e287b17119957def9abd101b8f0ee9bb3ea9fef6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="7f4a1a5faeebe91fb7da878d8786ead1a2d9c89f">
+        <dex dex="/home/kiran.kumar/code/mobile/demo/Data Binding/RoomDemo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4636e321930b48b3d4f03628295d4d9b530c2c30.jar" />
+    </item>
+
+</items>
